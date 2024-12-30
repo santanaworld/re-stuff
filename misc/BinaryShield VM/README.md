@@ -4,4 +4,4 @@ devirtualizer
 
 how to find keys:
 
-there is a sub instruction before each jnz, subtracting input - constant, next steps are logical
+there is a sub instruction before each (virtualized) jnz, subtracting input - constant, next steps are logical
